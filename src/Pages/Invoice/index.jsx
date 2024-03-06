@@ -375,11 +375,7 @@ export default function Invoice() {
                     <Checkbox />
                   </Box>
                 </Grid>
-<<<<<<< HEAD
                 <Grid item xs xs={2} sm={3} md={2} lg={1}>
-=======
-                <Grid item xs sm={3} md={2} lg={1}>
->>>>>>> 2e794e8bafa0b5ee24f124c8324d1616f03c3922
                   <Stack
                     sx={{
                       display: "flex",
@@ -390,11 +386,7 @@ export default function Invoice() {
                     <Typography>{data.InvoiceId}</Typography>
                   </Stack>
                 </Grid>
-<<<<<<< HEAD
                 <Grid item xs xs={3} sm={3} md={3} lg={2}>
-=======
-                <Grid item xs sm={3} md={3} lg={2}>
->>>>>>> 2e794e8bafa0b5ee24f124c8324d1616f03c3922
                   <Stack
                     direction="row"
                     sx={{
@@ -405,11 +397,7 @@ export default function Invoice() {
                       gap: 1,
                     }}
                   >
-<<<<<<< HEAD
                     <Avatar /> <Typography>{data.Name}</Typography>
-=======
-                    <Avatar src={data.Image} /> <Typography>{data.Name}</Typography>
->>>>>>> 2e794e8bafa0b5ee24f124c8324d1616f03c3922
                   </Stack>
                 </Grid>
                 <Grid item xs lg={2}>
