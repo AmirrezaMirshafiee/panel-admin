@@ -1,0 +1,50 @@
+{
+  "Task1": [
+    {
+      "TaskName": "Ui Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Pending"
+    },
+    {
+      "TaskName": "Logo Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Pending"
+    }
+  ],
+  "Task2": [
+    {
+      "TaskName": "Ui Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Running"
+    },
+    {
+      "TaskName": "Logo Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Running"
+    }
+  ],
+  "Task3": [
+    {
+      "TaskName": "Ui Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Done"
+    },
+    {
+      "TaskName": "Logo Design",
+      "StartDate": "03/12/2021",
+      "EndDate": "5/12/2021",
+      "Member": "5",
+      "Status": "Done"
+    }
+  ]
+}
